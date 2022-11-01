@@ -1,0 +1,49 @@
+/* 水平间距 */
+/* 水平间距 */
+.add.data-v-3b6eb0a6 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.add p.data-v-3b6eb0a6 {
+  font-size: 15px;
+}
+.th.data-v-3b6eb0a6 {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  background: #ea5149;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  display: flex;
+}
+.prompt.data-v-3b6eb0a6 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-size: 14px;
+  color: #888888;
+  text-align: center;
+}
+.date.data-v-3b6eb0a6 {
+  width: 23%;
+  padding-left: 60px;
+}
+.busi.data-v-3b6eb0a6 {
+  width: 10%;
+  margin-left: 5px;
+}
+.mark.data-v-3b6eb0a6 {
+  width: 20%;
+  margin-left: 10px;
+}
+.net.data-v-3b6eb0a6 {
+  width: 20%;
+  margin-left: 20px;
+}
+.text-footer.data-v-3b6eb0a6 {
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 5px;
+  padding-top: 5px;
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "真自律",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "login-window": "../../components/loginWindow/loginWindow"
+  }
+}

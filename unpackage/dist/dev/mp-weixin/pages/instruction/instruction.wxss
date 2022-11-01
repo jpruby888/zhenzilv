@@ -1,0 +1,42 @@
+/* 水平间距 */
+/* 水平间距 */
+.instruction .title.data-v-27007ba4 {
+  background: #feb500;
+  border-radius: 16rpx;
+  font-size: 16px;
+}
+.instruction .title .img.data-v-27007ba4 {
+  width: 100%;
+  height: 120px;
+}
+.instruction .title .content-title.data-v-27007ba4 {
+  padding: 4px 20px 10px 20px;
+}
+.instruction .content.data-v-27007ba4 {
+  padding: 4px 15px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.instruction .little-tip.data-v-27007ba4 {
+  padding: 15px 15px 3px 15px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #ea5149;
+}
+.instruction .tip.data-v-27007ba4 {
+  font-size: 15px;
+  font-weight: normal;
+}
+.instruction .tip .point.data-v-27007ba4 {
+  color: #feb600;
+}
+.instruction .prompts.data-v-27007ba4 {
+  font-size: 15px;
+}
+.instruction .index-img.data-v-27007ba4 {
+  display: block;
+  margin: 10px auto;
+  height: 560px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
